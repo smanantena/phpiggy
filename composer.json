@@ -1,0 +1,17 @@
+{
+    "name": "manantena/phpiggy",
+    "type": "project",
+    "authors": [
+        {
+            "name": "smanantena",
+            "email": "randriantsoa.manantena@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Framework\\": "src/Framework",
+            "App\\": "src/App"
+        }
+    }
+}
